@@ -90,6 +90,16 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
     </td>
   </tr>
   <tr>
+  <td width="50%" valign="top">
+      <h3>📋 <a href="https://github.com/Shripad735/ClipStack">ClipStack</a></h3>
+      <p>Windows-native <strong>clipboard manager</strong> built with Rust and TypeScript for fast, reliable clipboard history management.</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <br/><img src="https://img.shields.io/github/stars/Shripad735/ClipStack?style=flat-square&color=gold"/>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/Shripad735/Hospital-Management-System">Hospital Management System</a></h3>
       <p>Full-featured <strong>Java web application</strong> for hospital administration — patient records, doctor appointments, and billing. Built with JSP, Servlet, JDBC, MySQL, and Apache Tomcat with role-based access control for patients, doctors, and admins.</p>
@@ -128,14 +138,6 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 <a href="https://github.com/Shripad735/ClipStack">ClipStack</a></h3>
-      <p>Windows-native <strong>clipboard manager</strong> built with Rust and TypeScript for fast, reliable clipboard history management.</p>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      <br/><img src="https://img.shields.io/github/stars/Shripad735/ClipStack?style=flat-square&color=gold"/>
     </td>
   </tr>
 </table>
