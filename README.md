@@ -17,7 +17,7 @@
 
 I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (graduating 2026) who loves building scalable backend systems and cloud-native applications. I thrive at the intersection of clean engineering, reliable infrastructure, and robust API design.
 
-- 🔭 Latest: **[StreamFetch](https://github.com/Shripad735/streamfetch)** — a Windows desktop video downloader (Electron + React + yt-dlp) with 16 ⭐
+- 🔭 Latest: **[StreamFetch](https://github.com/Shripad735/streamfetch)** — a Windows desktop video downloader (Electron + React + yt-dlp) with 42 ⭐
 - 🌱 Deepening skills in **System Design**, **AWS**, **Docker**, and **Cloud-native** architectures
 - 🤝 Built **SharePlate** — an end-to-end MERN platform connecting restaurants with surplus food to NGOs
 - 🎯 Passionate about **backend engineering**, **DevOps**, **open source**, and solving problems at scale
@@ -130,6 +130,12 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
+      <h3>📋 <a href="https://github.com/Shripad735/ClipStack">ClipStack</a></h3>
+      <p>Windows-native <strong>clipboard manager</strong> built with Rust and TypeScript for fast, reliable clipboard history management.</p>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <br/><img src="https://img.shields.io/github/stars/Shripad735/ClipStack?style=flat-square&color=gold"/>
     </td>
   </tr>
 </table>
