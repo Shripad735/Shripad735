@@ -98,8 +98,6 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       <br/><img src="https://img.shields.io/github/stars/Shripad735/ClipStack?style=flat-square&color=gold"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/Shripad735/Hospital-Management-System">Hospital Management System</a></h3>
       <p>Full-featured <strong>Java web application</strong> for hospital administration — patient records, doctor appointments, and billing. Built with JSP, Servlet, JDBC, MySQL, and Apache Tomcat with role-based access control for patients, doctors, and admins.</p>
@@ -107,6 +105,7 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
       <img src="https://img.shields.io/badge/JSP%2FServlet-007396?style=flat-square&logo=apache-tomcat&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
+    <tr>
     <td width="50%" valign="top">
       <h3>💰 <a href="https://github.com/Shripad735/EMI-Calculator">Financial Calculator Suite</a></h3>
       <p>Comprehensive <strong>full-stack mobile application</strong> for financial calculations — EMI, SIP, FD, RD, PPF, TVM, and GST calculators optimized for Indian users. Built with React Native, Expo, Node.js/Express backend, MongoDB Atlas, and Firebase Auth.</p>
@@ -114,8 +113,6 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧟 <a href="https://github.com/Shripad735/Kiroween-APIZombie">APIZombie — AI-Powered API Testing</a></h3>
       <p>AI-powered <strong>unified API testing platform</strong> for REST, GraphQL, and gRPC. Features natural language to API conversion, AI test generation, protocol translation, visual workflow builder, and analytics dashboard.</p>
@@ -123,6 +120,8 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
+  </tr>
+    <tr>
     <td width="50%" valign="top">
       <h3>📋 <a href="https://github.com/Shripad735/Project-Tracker">Project Planner</a></h3>
       <p>A <strong>full-stack project management tool</strong> for tracking and organizing projects. Built with React, Node.js, Express, and MySQL with intuitive UI for planning, task management, and progress tracking.</p>
@@ -130,8 +129,6 @@ I'm a **B. Tech student (Computer Engineering)** at MIT Academy of Engineering (
       <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/Shripad735/Price-Prediction-Model">Price Prediction Model</a></h3>
       <p>Machine learning model using <strong>Linear Regression</strong> to predict prices. Implemented with scikit-learn, NumPy, and Pandas in a Jupyter Notebook with data visualization, feature engineering, and model evaluation metrics.</p>
